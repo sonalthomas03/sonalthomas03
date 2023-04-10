@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonalthomas03
 - 👀 I’m interested in programming+
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning html,css,javascript
 - 📫 How to reach me sonalt664@gmail.com
 
 <!---
